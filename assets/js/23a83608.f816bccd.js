@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[769],{8341:a=>{a.exports=JSON.parse('{"allTagsPath":"/aibrain/blog/tags","slug":"/aibrain/blog/tags/facebook","name":"facebook","count":1,"permalink":"/aibrain/blog/tags/facebook"}')}}]);
