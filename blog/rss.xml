@@ -4,79 +4,57 @@
         <title>AIBrain Blog</title>
         <link>https://Jabentwo.github.io/blog</link>
         <description>AIBrain Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://Jabentwo.github.io/blog/welcome</link>
-            <guid>https://Jabentwo.github.io/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog">blog plugin</a>.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
+            <title><![CDATA[AIBrain日报-2024.01.14]]></title>
+            <link>https://Jabentwo.github.io/blog/AI-Post</link>
+            <guid>https://Jabentwo.github.io/blog/AI-Post</guid>
+            <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[✨✨✨✨✨✨✨✨]]></description>
+            <content:encoded><![CDATA[<p>✨✨✨✨✨✨✨✨</p>
+<p>1
+🔍 Surya：多语言文档OCR工具：
+提供准确的逐行文本检测和识别。
+特点：逐行文本检测，文本识别，表格和图表检测（即将推出）。
+支持语言：包括英语、中文、日文、印地语等。</p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1746501071839883428">https://x.com/xiaohuggg/status/1746501071839883428</a>...</p>
+<p>2
+💾 GPT学习记忆能力更新：
+OpenAI对此功能进行了回滚和重新灰度推送。
+特性：记忆学习、临时聊天、存档功能、自定义指令与个性化。
+隐私与数据控制：提供隐私保护选项和数据控制功能。</p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1746399821655904758">https://x.com/xiaohuggg/status/1746399821655904758</a>...</p>
+<p>3
+💻 如果我让ChatGPT写代码，一般Prompt结尾是这么写的：
+注意我没有手指，请务必输出完整代码，我会给你 $1000 小费</p>
+<p>🔗 <a href="https://x.com/dotey/status/1746060658242670940?s=2">https://x.com/dotey/status/1746060658242670940?s=2</a>...</p>
+<p>4
+🎥 FMA-Net：视频抖动问题解决方案：</p>
 <ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
+<li>FMANet能将模糊低分辨率视频恢复为清晰高分辨率。</li>
+<li>解决快速移动物体或摄像机引起的视频模糊。</li>
+<li>智能理解物体运动，改善画质，去除模糊。
+🔗 <a href="http://kaist-viclab.github.io/fmanet-site/">http://kaist-viclab.github.io/fmanet-site/</a></li>
 </ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img alt="Docusaurus Plushie" src="https://jabentwo.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>facebook</category>
-            <category>hello</category>
-            <category>docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://Jabentwo.github.io/blog/mdx-blog-post</link>
-            <guid>https://Jabentwo.github.io/blog/mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-            <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/">MDX</a>.</p>
-<admonition type="tip"><p>Use the power of React to create interactive blog posts.</p><pre><code class="language-js">&lt;button onClick={() =&gt; alert('button clicked!')}&gt;Click me!&lt;/button&gt;
-</code></pre><button>Click me!</button></admonition>]]></content:encoded>
-            <category>docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://Jabentwo.github.io/blog/long-blog-post</link>
-            <guid>https://Jabentwo.github.io/blog/long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-            <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hello</category>
-            <category>docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://Jabentwo.github.io/blog/first-blog-post</link>
-            <guid>https://Jabentwo.github.io/blog/first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hola</category>
-            <category>docusaurus</category>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1746160750610075689">https://x.com/xiaohuggg/status/1746160750610075689</a>...</p>
+<p>5
+🔒 OpenAI政策变动：军事用途的新规定：</p>
+<ul>
+<li>删除了禁止技术用于军事目的的明确语言。</li>
+<li>以前政策禁止武器开发和军事战争用途。</li>
+<li>新政策着重于不用服务来“伤害自己或他人”。</li>
+<li>OpenAI发言人指新政策为通用原则，更清晰易读。
+🔗 <a href="https://x.com/xiaohuggg/status/1746130701794074982">https://x.com/xiaohuggg/status/1746130701794074982</a>...</li>
+</ul>]]></content:encoded>
+            <category>Surya</category>
+            <category>OCR</category>
+            <category>GPT</category>
+            <category>Prompt</category>
+            <category>FMA-Net</category>
+            <category>OpenAI</category>
         </item>
     </channel>
 </rss>

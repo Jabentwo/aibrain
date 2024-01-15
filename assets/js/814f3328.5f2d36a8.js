@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"AIBrain\u65e5\u62a5-2024.01.14","permalink":"/blog/AI-Post","unlisted":false}]}')}}]);
