@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[5823],{7739:a=>{a.exports=JSON.parse('{"label":"DDColor","permalink":"/blog/tags/dd-color","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

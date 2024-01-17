@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[4906],{655:a=>{a.exports=JSON.parse('{"label":"PhotoMaker","permalink":"/blog/tags/photo-maker","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
