@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[3469],{813:e=>{e.exports=JSON.parse('{"label":"Adobe Premiere Pro","permalink":"/blog/tags/adobe-premiere-pro","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

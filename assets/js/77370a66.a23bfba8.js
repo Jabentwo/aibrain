@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[3692],{7518:a=>{a.exports=JSON.parse('{"label":"AGI","permalink":"/blog/tags/agi","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
