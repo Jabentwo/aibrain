@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[381],{6094:a=>{a.exports=JSON.parse('{"label":"Galaxy S24 Ultra","permalink":"/blog/tags/galaxy-s-24-ultra","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
