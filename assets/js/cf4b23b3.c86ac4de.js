@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[6885],{6874:a=>{a.exports=JSON.parse('{"label":"GLM-4","permalink":"/blog/tags/glm-4","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

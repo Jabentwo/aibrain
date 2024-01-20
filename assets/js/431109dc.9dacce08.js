@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[7646],{2965:a=>{a.exports=JSON.parse('{"label":"BeamO","permalink":"/blog/tags/beam-o","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

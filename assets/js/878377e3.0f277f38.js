@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[976],{1322:a=>{a.exports=JSON.parse('{"label":"Motion","permalink":"/blog/tags/motion","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
