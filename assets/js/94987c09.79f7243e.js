@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[1501],{64188:a=>{a.exports=JSON.parse('{"label":"TowerBase-7B","permalink":"/blog/tags/tower-base-7-b","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

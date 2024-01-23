@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[124],{27264:a=>{a.exports=JSON.parse('{"label":"HeyGen","permalink":"/blog/tags/hey-gen","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
