@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[6848],{25444:a=>{a.exports=JSON.parse('{"label":"SUPIR","permalink":"/blog/tags/supir","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

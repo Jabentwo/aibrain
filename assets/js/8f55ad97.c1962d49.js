@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[9113],{41399:a=>{a.exports=JSON.parse('{"label":"DuckDB-NSQL-7B","permalink":"/blog/tags/duck-db-nsql-7-b","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
