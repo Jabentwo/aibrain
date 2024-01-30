@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[1619],{2671:a=>{a.exports=JSON.parse('{"label":"SliceGPT","permalink":"/blog/tags/slice-gpt","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

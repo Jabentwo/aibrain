@@ -2,11 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Jabentwo.github.io/blog</id>
     <title>AIBrain Blog</title>
-    <updated>2024-01-28T00:00:00.000Z</updated>
+    <updated>2024-01-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Jabentwo.github.io/blog"/>
     <subtitle>AIBrain Blog</subtitle>
     <icon>https://Jabentwo.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AIBrain日报-2024.01.29]]></title>
+        <id>https://Jabentwo.github.io/blog/AI-Post0129</id>
+        <link href="https://Jabentwo.github.io/blog/AI-Post0129"/>
+        <updated>2024-01-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🤯神秘人工智能链接🤯]]></summary>
+        <content type="html"><![CDATA[<p><strong>🤯神秘人工智能链接🤯</strong></p>
+<admonition type="info"><p>（神秘链接可以指向任何与人工智能相关的内容。工具、模因、文章、视频等等……）</p><p><a href="https://link.mail.beehiiv.com/ss/c/xWFG3L3qbVrDY7jOCb9OYQ6idti49SbGFfqPFlBrI7t9KUsZFM9AB-5eBSNvYT35h_rrmdzKz0cRzHo-5umNEDzXqeRlRI5BTOAhMEACwD1TbzierAQz__tVu6tmSSBHABdsp4KZFcJ8hrztEf_rPY7JvTR_kCkJNjO-t8qka7gP_bzo3k_ucH9zwwHXNkNWbem5Nl_IgxDziRADXk_M4Q/43e/XTAeua3BRH-xaaCUaqN6TA/h4/0ClC6q_dHQIsJSqYhld_On7SsovI2xT1UoeGDKHeJ64">神秘按钮</a></p></admonition>
+<p>✨✨✨✨✨✨✨✨</p>
+<p>1⃣️ 📘LLMs-from-scratch 项目：</p>
+<ul>
+<li>详细解释LLMs的工作原理。</li>
+<li>提供创建自己的LLM的逐步指南。</li>
+<li>适合企业团队、初创公司和教育机构学习。</li>
+</ul>
+<p>🔗 <a href="https://github.com/rasbt/LLMs-from-scratch">https://github.com/rasbt/LLMs-from-scratch</a></p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1751890557805449693?s=20">https://x.com/xiaohuggg/status/1751890557805449693?s=20</a></p>
+<p>2⃣️ 💡SliceGPT - 微软开发的大语言模型压缩方法：</p>
+<ul>
+<li>在保持高性能的同时大幅减少模型参数。</li>
+<li>允许在更少的GPU上运行，提高运行速度。</li>
+<li>显著降低了在消费级GPU上的总计算量。</li>
+</ul>
+<p>🔗 <a href="https://arxiv.org/abs/2401.15024">https://arxiv.org/abs/2401.15024</a></p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1751880365307011182?s=20">https://x.com/xiaohuggg/status/1751880365307011182?s=20</a></p>
+<p>3⃣️ 👁️🌐 VisualWebArena - 自主智能体的视觉网络任务基准测试：</p>
+<ul>
+<li>评估智能体在网络环境中的规划、推理和执行任务能力。</li>
+<li>着重于视觉信息的重要性和多模态智能体评估。</li>
+<li>提供深入的定量和定性分析，揭示LLM智能体的限制。</li>
+</ul>
+<p>🔗 <a href="https://arxiv.org/abs/2401.13649">https://arxiv.org/abs/2401.13649</a></p>
+<p>🔗 <a href="https://jykoh.com/vwa">https://jykoh.com/vwa</a></p>
+<p>🔗 <a href="https://x.com/dotey/status/1751746302155632925?s=20">https://x.com/dotey/status/1751746302155632925?s=20</a></p>
+<p>4⃣️ 🔥百川智能的Baichuan 3模型：</p>
+<ul>
+<li>中文任务评测表现卓越，超越GPT-4。</li>
+<li>在医疗领域和中华传统文化理解方面表现突出。</li>
+<li>引入创新技术，提高训练效率和数据质量。</li>
+</ul>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1751830719222124727?s=20">https://x.com/xiaohuggg/status/1751830719222124727?s=20</a></p>
+<p>5⃣️ 📱 Apple Vision Pro 最新宣传片：</p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1751789758186238100?s=20">https://x.com/xiaohuggg/status/1751789758186238100?s=20</a></p>]]></content>
+        <author>
+            <name>AIBrain</name>
+            <uri>https://designsoft.cc</uri>
+        </author>
+        <category label="LLMs-from-scratch" term="LLMs-from-scratch"/>
+        <category label="SliceGPT" term="SliceGPT"/>
+        <category label="VisualWebArena" term="VisualWebArena"/>
+        <category label="百川智能" term="百川智能"/>
+        <category label="Apple Vision Pro" term="Apple Vision Pro"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIBrain日报-2024.01.28]]></title>
         <id>https://Jabentwo.github.io/blog/AI-Post0128</id>
@@ -22,9 +75,8 @@
 <li>Google推出旗舰AI加速器，专为AI训练和推理设计。</li>
 <li>TPU v5p助力Google“AI超级计算机”架构。</li>
 </ul>
-<p>🔗 <a href="https://x.com/xiaohuggg/status/1751585830911836333?s=20">https://x.com/xiaohuggg/status/1751585830911836333?s=20</a>
-2⃣️
-👀 GPT 4V视觉模态实践：</p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1751585830911836333?s=20">https://x.com/xiaohuggg/status/1751585830911836333?s=20</a></p>
+<p>2⃣️ 👀 GPT 4V视觉模态实践：</p>
 <ul>
 <li>有效辅助儿童学习英语，通过识别物体并给出单词。
 🔗 <a href="https://x.com/xiaohuggg/status/1751446948803178868?s=20">https://x.com/xiaohuggg/status/1751446948803178868?s=20</a></li>
