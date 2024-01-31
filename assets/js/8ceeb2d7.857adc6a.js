@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[1726],{92947:a=>{a.exports=JSON.parse('{"label":"SERL","permalink":"/blog/tags/serl","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

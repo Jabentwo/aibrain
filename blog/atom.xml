@@ -2,11 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Jabentwo.github.io/blog</id>
     <title>AIBrain Blog</title>
-    <updated>2024-01-29T00:00:00.000Z</updated>
+    <updated>2024-01-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Jabentwo.github.io/blog"/>
     <subtitle>AIBrain Blog</subtitle>
     <icon>https://Jabentwo.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AIBrain日报-2024.01.30]]></title>
+        <id>https://Jabentwo.github.io/blog/AI-Post0130</id>
+        <link href="https://Jabentwo.github.io/blog/AI-Post0130"/>
+        <updated>2024-01-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🤯神秘人工智能链接🤯]]></summary>
+        <content type="html"><![CDATA[<p><strong>🤯神秘人工智能链接🤯</strong></p>
+<admonition type="info"><p>（神秘链接可以指向任何与人工智能相关的内容。工具、模因、文章、视频等等……）</p><p><a href="https://link.mail.beehiiv.com/ss/c/qaZODS3jlu2XYCgrehc3okc-R2ElrEcjpo-6VGJWPBwZXvJgQ4gZZmrBHZYQtltUdA__NUpbKJu0G38kjnJ9Wo43nMWUg6Wml9MGubb3-3Hr1VerltkXrlAM1U7XEgtlZxmMSfqvqwVp7lYIaAFk4v2o0lQg-mvJVJGBzvexT-Uw3G2bRZoQ9uoB1ORKhnaxxMX_Eddpm8KfygLxG0-BJdpxpXSgdoF_I19swmQqXYQ/43f/uCRDw4V6TmCsmhv76qu8aA/h4/5a5PDtA94L7oO2NDTnIvpOT10Epm4_EkN4LVy3-9uQs">神秘按钮</a></p></admonition>
+<p>✨✨✨✨✨✨✨✨</p>
+<p>1⃣️ 🌐 阿里巴巴多模态模型Qwen-VL更新：</p>
+<ul>
+<li>Qwen-VL-Plus和Qwen-VL-Max发布，与Gemini Ultra和GPT-4V性能相当。</li>
+<li>在中文问答和文本理解上超越GPT-4V和Gemini。</li>
+<li>图像处理方面显著增强，支持高清图像和多种宽高比。</li>
+<li></li>
+</ul>
+<p>🔗 <a href="https://qwenlm.github.io/blog/qwen-vl/">https://qwenlm.github.io/blog/qwen-vl/</a></p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1752329993601057165?s=20">https://x.com/xiaohuggg/status/1752329993601057165?s=20</a></p>
+<p>2⃣️ 🤖 SERL：机器人强化学习软件套件：</p>
+<ul>
+<li>快速学习新任务，25到50分钟掌握。</li>
+<li>执行多种复杂任务，如组装电路板、布线等。</li>
+</ul>
+<p>🔗 <a href="https://serl-robot.github.io/">https://serl-robot.github.io</a></p>
+<p>🔗 <a href="https://arxiv.org/abs/2401.16013">https://arxiv.org/abs/2401.16013</a></p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1752316028070326451?s=20">https://x.com/xiaohuggg/status/1752316028070326451?s=20</a></p>
+<p>3⃣️ 🎙️ WhisperFusion：超低延迟AI语音对话：</p>
+<ul>
+<li>实时语音转文本。</li>
+<li>整合大型语言模型Mistral提高理解。</li>
+<li>性能优化，使用TensorRT和torch.compile加速。</li>
+<li>预构建Docker容器，易于使用。</li>
+</ul>
+<p>🔗 <a href="https://github.com/collabora/WhisperFusion">https://github.com/collabora/WhisperFusion</a></p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1752304318353703137?s=20">https://x.com/xiaohuggg/status/1752304318353703137?s=20</a></p>
+<p>4⃣️ 🧠 马斯克Neuralink人机接口视频（中英字幕）：</p>
+<ul>
+<li>通过思考操作电脑或智能手机。</li>
+<li>马斯克宣布首例人类大脑芯片植入手术成功。</li>
+</ul>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1752176033997152535?s=20">https://x.com/xiaohuggg/status/1752176033997152535?s=20</a></p>
+<p>5⃣️ 🖼️ Nijijourney V6动漫图像生成模型：</p>
+<ul>
+<li>增强的提示理解，支持非常规主题。</li>
+<li>新功能：文本写入、RAW模式、即将推出的vary、pan和zoom功能。</li>
+</ul>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1752171965123875101?s=20">https://x.com/xiaohuggg/status/1752171965123875101?s=20</a></p>
+<p>6⃣️ 💻 Meta发布Code Llama 70B编程辅助模型：</p>
+<ul>
+<li>在HumanEval上获得67.8分，表现卓越。</li>
+<li>支持多种编程语言，如Python、C++、Java等。</li>
+<li>提供不同大小的模型选项。</li>
+</ul>
+<p>🔗 <a href="https://ai.meta.com/blog/code-llama-large-language-model-coding/">https://ai.meta.com/blog/code-llama-large-language-model-coding/</a></p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1752167976906993951?s=20">https://x.com/xiaohuggg/status/1752167976906993951?s=20</a></p>
+<p>7⃣️ 🔍 Microsoft Clarity：免费用户行为分析工具：</p>
+<ul>
+<li>录制网站用户行为，如点击、滚动。</li>
+<li>提供热图、会话录制、用户洞察。</li>
+<li>免费使用，支持移动应用整合。</li>
+</ul>
+<p>🔗 <a href="http://clarity.microsoft.com/">http://clarity.microsoft.com</a></p>
+<p>🔗 <a href="https://x.com/xiaohuggg/status/1751991901266612307?s=20">https://x.com/xiaohuggg/status/1751991901266612307?s=20</a></p>]]></content>
+        <author>
+            <name>AIBrain</name>
+            <uri>https://designsoft.cc</uri>
+        </author>
+        <category label="Qwen-VL" term="Qwen-VL"/>
+        <category label="SERL" term="SERL"/>
+        <category label="VisualWebArena" term="VisualWebArena"/>
+        <category label="百川智能" term="百川智能"/>
+        <category label="Apple Vision Pro" term="Apple Vision Pro"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIBrain日报-2024.01.29]]></title>
         <id>https://Jabentwo.github.io/blog/AI-Post0129</id>
