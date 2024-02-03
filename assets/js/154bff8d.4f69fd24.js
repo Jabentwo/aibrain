@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[1452],{56276:a=>{a.exports=JSON.parse('{"label":"Glif StyleHunter","permalink":"/blog/tags/glif-style-hunter","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[7434],{14808:a=>{a.exports=JSON.parse('{"label":"Cybertruck","permalink":"/blog/tags/cybertruck","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

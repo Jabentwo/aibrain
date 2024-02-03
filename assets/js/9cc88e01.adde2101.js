@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[3049],{54652:a=>{a.exports=JSON.parse('{"label":"Media2Face","permalink":"/blog/tags/media-2-face","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
