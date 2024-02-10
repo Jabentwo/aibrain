@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[5396],{36652:a=>{a.exports=JSON.parse('{"label":"Qwen1.5","permalink":"/blog/tags/qwen-1-5","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

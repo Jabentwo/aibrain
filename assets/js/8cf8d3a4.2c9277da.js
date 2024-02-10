@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[6020],{63934:a=>{a.exports=JSON.parse('{"label":"Gemini Ultra","permalink":"/blog/tags/gemini-ultra","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[399],{48439:a=>{a.exports=JSON.parse('{"label":"Stable Video Diffusion (SVD)","permalink":"/blog/tags/stable-video-diffusion-svd","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

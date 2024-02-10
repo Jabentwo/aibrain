@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[5610],{93708:a=>{a.exports=JSON.parse('{"label":"V-IRL","permalink":"/blog/tags/v-irl","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

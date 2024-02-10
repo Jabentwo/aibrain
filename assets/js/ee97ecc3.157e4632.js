@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[2742],{51217:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/times-fm\u65f6\u95f4\u5e8f\u5217","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

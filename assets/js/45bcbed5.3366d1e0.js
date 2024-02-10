@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[2798],{22626:a=>{a.exports=JSON.parse('{"label":"Hugging Chat","permalink":"/blog/tags/hugging-chat","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

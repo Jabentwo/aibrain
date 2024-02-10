@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[6096],{75672:a=>{a.exports=JSON.parse('{"label":"iFixit","permalink":"/blog/tags/i-fixit","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
