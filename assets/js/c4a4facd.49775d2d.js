@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[4819],{28369:e=>{e.exports=JSON.parse('{"label":"Azure OpenAI Service","permalink":"/blog/tags/azure-open-ai-service","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
