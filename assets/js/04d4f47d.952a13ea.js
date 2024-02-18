@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[5074],{84981:a=>{a.exports=JSON.parse('{"label":"notesGPT","permalink":"/blog/tags/notes-gpt","allTagsPath":"/blog/tags","count":5,"unlisted":false}')}}]);
