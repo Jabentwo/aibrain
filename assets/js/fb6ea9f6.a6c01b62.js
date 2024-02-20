@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[6234],{81852:a=>{a.exports=JSON.parse('{"label":"FaceFusion","permalink":"/blog/tags/face-fusion","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[1754],{96119:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/notes-gpt","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

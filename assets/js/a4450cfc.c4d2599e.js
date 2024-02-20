@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[9079],{27746:a=>{a.exports=JSON.parse('{"label":"Boximator","permalink":"/blog/tags/boximator","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

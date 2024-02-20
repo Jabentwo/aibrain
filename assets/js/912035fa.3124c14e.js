@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[6435],{29439:a=>{a.exports=JSON.parse('{"label":"ConsiStory","permalink":"/blog/tags/consi-story","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

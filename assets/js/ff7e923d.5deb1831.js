@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[2553],{53015:a=>{a.exports=JSON.parse('{"label":"UFO","permalink":"/blog/tags/ufo","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

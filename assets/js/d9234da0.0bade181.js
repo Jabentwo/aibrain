@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[7421],{3484:a=>{a.exports=JSON.parse('{"label":"Lumos","permalink":"/blog/tags/lumos","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[6358],{5504:a=>{a.exports=JSON.parse('{"label":"GeneGPT","permalink":"/blog/tags/gene-gpt","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

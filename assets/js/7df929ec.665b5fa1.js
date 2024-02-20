@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[6263],{98296:a=>{a.exports=JSON.parse('{"label":"WhisperKit","permalink":"/blog/tags/whisper-kit","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
