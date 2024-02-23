@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[1678],{25980:a=>{a.exports=JSON.parse('{"label":"Adept Fuyu-Heavy","permalink":"/blog/tags/adept-fuyu-heavy","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

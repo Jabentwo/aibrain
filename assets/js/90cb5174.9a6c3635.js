@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[36705],{97046:a=>{a.exports=JSON.parse('{"label":"\u82f1\u4f1f\u8fbe","permalink":"/blog/tags/\u82f1\u4f1f\u8fbe","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

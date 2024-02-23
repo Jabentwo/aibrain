@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[92235],{5975:a=>{a.exports=JSON.parse('{"label":"MedSAM","permalink":"/blog/tags/med-sam","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

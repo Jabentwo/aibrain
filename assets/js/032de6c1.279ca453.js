@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[20814],{64266:a=>{a.exports=JSON.parse('{"label":"PixelPlayer","permalink":"/blog/tags/pixel-player","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[48681],{51666:a=>{a.exports=JSON.parse('{"label":"\u674e\u4e00\u821f AI","permalink":"/blog/tags/\u674e\u4e00\u821f-ai","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

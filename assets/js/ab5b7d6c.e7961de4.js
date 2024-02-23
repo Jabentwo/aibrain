@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[8885],{75442:a=>{a.exports=JSON.parse('{"label":"Wisp World","permalink":"/blog/tags/wisp-world","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

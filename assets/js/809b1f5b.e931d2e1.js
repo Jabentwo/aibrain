@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[96347],{66400:a=>{a.exports=JSON.parse('{"label":"MobileAgent","permalink":"/blog/tags/mobile-agent","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

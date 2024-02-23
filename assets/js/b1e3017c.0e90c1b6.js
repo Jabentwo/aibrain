@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[99201],{96021:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/open-ai/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":12,"previousPage":"/blog/tags/open-ai","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

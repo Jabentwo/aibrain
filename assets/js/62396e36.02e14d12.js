@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[5173],{36977:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/\u963f\u6839\u5ef7\u603b\u7edf","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

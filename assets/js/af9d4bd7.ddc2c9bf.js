@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[47836],{7807:a=>{a.exports=JSON.parse('{"label":"Direct-a-Video","permalink":"/blog/tags/direct-a-video","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[2670],{81857:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/\u8c37\u6b4ctpu-v-5-p-ai","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[31251],{59709:a=>{a.exports=JSON.parse('{"label":"Atlas\u4eba\u5f62\u673a\u5668\u4eba","permalink":"/blog/tags/atlas\u4eba\u5f62\u673a\u5668\u4eba","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

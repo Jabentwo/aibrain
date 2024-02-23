@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[52843],{62874:a=>{a.exports=JSON.parse('{"label":"HuixiangDou","permalink":"/blog/tags/huixiang-dou","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

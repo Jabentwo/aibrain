@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[7501],{65322:a=>{a.exports=JSON.parse('{"label":"Pixel 8 \\"Guided Frame\\"","permalink":"/blog/tags/pixel-8-guided-frame","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

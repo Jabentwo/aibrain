@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[735],{62322:a=>{a.exports=JSON.parse('{"label":"Google\u5f00\u6e90Magika","permalink":"/blog/tags/google\u5f00\u6e90-magika","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

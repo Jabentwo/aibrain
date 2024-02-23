@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[36058],{74761:a=>{a.exports=JSON.parse('{"label":"\u8c37\u6b4cTPU v5p AI","permalink":"/blog/tags/\u8c37\u6b4ctpu-v-5-p-ai","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

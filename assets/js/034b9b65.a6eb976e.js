@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[3071],{8173:a=>{a.exports=JSON.parse('{"label":"MoneyPrinter","permalink":"/blog/tags/money-printer","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

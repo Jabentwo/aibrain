@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[45829],{40993:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/google\u5f00\u6e90-magika","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

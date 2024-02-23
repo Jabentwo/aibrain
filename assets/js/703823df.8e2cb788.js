@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[59335],{11320:a=>{a.exports=JSON.parse('{"label":"MotionShop","permalink":"/blog/tags/motion-shop","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[96385],{99842:a=>{a.exports=JSON.parse('{"label":"Polycam","permalink":"/blog/tags/polycam","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

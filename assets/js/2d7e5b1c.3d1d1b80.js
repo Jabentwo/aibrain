@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[23496],{40564:a=>{a.exports=JSON.parse('{"label":"Reor","permalink":"/blog/tags/reor","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

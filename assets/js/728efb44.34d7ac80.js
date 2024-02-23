@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[98415],{41754:a=>{a.exports=JSON.parse('{"label":"Airbnb","permalink":"/blog/tags/airbnb","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

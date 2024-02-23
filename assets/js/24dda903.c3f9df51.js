@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[5377],{63746:a=>{a.exports=JSON.parse('{"label":"DermaSensor","permalink":"/blog/tags/derma-sensor","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

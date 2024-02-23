@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[9246],{12101:a=>{a.exports=JSON.parse('{"label":"LLaMa","permalink":"/blog/tags/l-la-ma","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

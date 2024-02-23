@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[54328],{23453:a=>{a.exports=JSON.parse('{"label":"Medivis","permalink":"/blog/tags/medivis","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

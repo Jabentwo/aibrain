@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[89396],{90843:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/\u5fae\u8f6f-long-ro-pe","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

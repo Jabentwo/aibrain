@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[1666],{185:a=>{a.exports=JSON.parse('{"label":"iMessage","permalink":"/blog/tags/i-message","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

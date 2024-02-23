@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[55081],{44244:a=>{a.exports=JSON.parse('{"label":"UMI","permalink":"/blog/tags/umi","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

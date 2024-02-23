@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[23102],{68858:a=>{a.exports=JSON.parse('{"label":"USPTO","permalink":"/blog/tags/uspto","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

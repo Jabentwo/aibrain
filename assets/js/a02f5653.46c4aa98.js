@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[40537],{30971:a=>{a.exports=JSON.parse('{"label":"ChatGPT 4 System Prompt","permalink":"/blog/tags/chat-gpt-4-system-prompt","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

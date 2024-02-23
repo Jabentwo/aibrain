@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[74408],{63929:a=>{a.exports=JSON.parse('{"label":"YOLOv8","permalink":"/blog/tags/yol-ov-8","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

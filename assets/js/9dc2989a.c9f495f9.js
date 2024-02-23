@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[45456],{75639:a=>{a.exports=JSON.parse('{"label":"RPG-DiffusionMaster","permalink":"/blog/tags/rpg-diffusion-master","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[23936],{95118:a=>{a.exports=JSON.parse('{"label":"Vicarious","permalink":"/blog/tags/vicarious","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

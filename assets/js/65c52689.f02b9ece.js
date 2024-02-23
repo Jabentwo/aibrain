@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[88606],{62610:a=>{a.exports=JSON.parse('{"label":"Prompt","permalink":"/blog/tags/prompt","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

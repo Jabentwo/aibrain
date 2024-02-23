@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[9045],{51382:a=>{a.exports=JSON.parse('{"label":"SCEPTER","permalink":"/blog/tags/scepter","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

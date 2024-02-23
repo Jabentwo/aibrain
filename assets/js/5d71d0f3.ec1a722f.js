@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[99861],{11495:a=>{a.exports=JSON.parse('{"label":"InstantID","permalink":"/blog/tags/instant-id","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

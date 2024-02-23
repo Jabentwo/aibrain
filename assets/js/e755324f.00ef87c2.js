@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[30036],{91725:a=>{a.exports=JSON.parse('{"label":"AnyGPT","permalink":"/blog/tags/any-gpt","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

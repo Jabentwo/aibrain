@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[2879],{34011:a=>{a.exports=JSON.parse('{"label":"MultiOn_AI","permalink":"/blog/tags/multi-on-ai","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

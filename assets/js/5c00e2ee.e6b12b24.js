@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[34208],{84461:a=>{a.exports=JSON.parse('{"label":"Grop","permalink":"/blog/tags/grop","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[51689],{22327:a=>{a.exports=JSON.parse('{"label":"SDXL-Lightning","permalink":"/blog/tags/sdxl-lightning","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

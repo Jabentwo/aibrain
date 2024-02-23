@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[23541],{88377:a=>{a.exports=JSON.parse('{"label":"ADeus","permalink":"/blog/tags/a-deus","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

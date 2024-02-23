@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[17765],{91211:a=>{a.exports=JSON.parse('{"label":"TimesFM\u65f6\u95f4\u5e8f\u5217","permalink":"/blog/tags/times-fm\u65f6\u95f4\u5e8f\u5217","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

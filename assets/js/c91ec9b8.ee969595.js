@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[72474],{95194:a=>{a.exports=JSON.parse('{"label":"Vercel","permalink":"/blog/tags/vercel","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

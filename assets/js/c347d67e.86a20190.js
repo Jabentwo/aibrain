@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[36496],{15128:a=>{a.exports=JSON.parse('{"label":"GhostWriter","permalink":"/blog/tags/ghost-writer","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaibrain=self.webpackChunkaibrain||[]).push([[5520],{19625:a=>{a.exports=JSON.parse('{"label":"MiniCPM","permalink":"/blog/tags/mini-cpm","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
